@@ -10,5 +10,5 @@ switch(station){
         window.alert("快速,急行電車が停まります");
         break;
     case 3:
-        window.alert("特急電車が停まります")
+        window.alert("特急電車が停まります");
 }
